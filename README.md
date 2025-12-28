@@ -10,6 +10,10 @@ TavernRegister 是一个极简的独立注册门户，可在不修改 SillyTaver
 2. 注册时将提交的显示名称、用户标识、密码发送到 SillyTavern。
 3. 调用 `/api/users/create` 创建账号，并返回登录入口信息。
 
+演示地址
+----
+https://st.zkjd.me
+
 快速开始（使用仓库内启动脚本）
 ----
 本项目包含平台对应的启动脚本：Unix/macOS 使用 `start.sh`。优先使用仓库自带脚本来安装依赖并启动服务，脚本已包含常见检查并能简化部署流程。
